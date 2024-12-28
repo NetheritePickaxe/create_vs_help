@@ -4,6 +4,7 @@
 本文档会教你如何使用整合包中的模组
 
 **B站教程:**
+
 现代化UI:
 字体:整合包版本文件夹下的downloads文件夹下的font文件夹内有预设的字体,你也可以自行下载ttf/otf格式的字体
 更改字体的方法:ctrl+k打开配置界面,在偏好设置的右边左滑!![ui](https://github.com/user-attachments/assets/7dc964ed-139a-4ba3-aa95-e2de24d0ba42)点击首选字体家族，打开字体文件，然后选择你要的字体文件,你也可以直接选择安装在电脑上的字体，如果想改回来就回到downloads文件夹里的font文件夹里面，选择"unifont-16.0.02.otf"
@@ -24,5 +25,7 @@ tma模组(此模组硬编码无法汉化，只能看教程了):https://www.bilib
 方块小镇作者主页:https://space.bilibili.com/293574023
 
 其他教程:
+
 快捷菜单:默认按G打开
+
 推课入:按x+c
