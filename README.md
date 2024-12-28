@@ -39,3 +39,7 @@ tma模组(此模组硬编码无法汉化，只能看教程了):https://www.bilib
 /safe 实体
 
 /un-safe 实体
+
+**整合包下载:**
+
+https://www.123865.com/s/Y8HHjv-GkfDv
